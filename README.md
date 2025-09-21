@@ -8,7 +8,6 @@
 
 ## 📊 Dashboard Snapshot
 
-![Dashboard Screenshot](./Report%20Screenshot.jpg)
 <img width="1372" height="768" alt="image" src="https://github.com/user-attachments/assets/29fa93c6-bece-4673-af2c-76077e47a8c3" />
 
 ---
